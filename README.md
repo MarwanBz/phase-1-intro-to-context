@@ -195,7 +195,7 @@ below. A function _signature_ is the function name, the arguments it expects,
 and what the function returns. Pay close attention to the description of each
 function's expected behavior.
 
-### `createEmployeeRecord`
+### `createEmployeeRecord` 
 
 * **Argument(s)**
   * A 4-element Array of a `String`, `String`, `String`, and `Number`
